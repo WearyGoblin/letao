@@ -1,0 +1,17 @@
+.lt_bg {
+    background-color: #222D32;
+}
+.title {
+    height: 40px;
+    line-height: 40px;
+    background-color: #337ab7;
+    color: #fff;
+    text-align: center;
+}
+.info {
+    padding: 30px;
+    background: #fff;
+}
+.mt {
+    margin-top: 150px;
+}
